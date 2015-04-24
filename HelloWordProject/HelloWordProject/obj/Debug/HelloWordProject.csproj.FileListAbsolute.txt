@@ -1,0 +1,8 @@
+c:\users\yonca\documents\visual studio 2013\Projects\HelloWordProject\HelloWordProject\bin\Debug\HelloWordProject.exe.config
+c:\users\yonca\documents\visual studio 2013\Projects\HelloWordProject\HelloWordProject\bin\Debug\HelloWordProject.exe
+c:\users\yonca\documents\visual studio 2013\Projects\HelloWordProject\HelloWordProject\bin\Debug\HelloWordProject.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\HelloWordProject\HelloWordProject\obj\Debug\HelloWordProject.Form1.resources
+c:\users\yonca\documents\visual studio 2013\Projects\HelloWordProject\HelloWordProject\obj\Debug\HelloWordProject.Properties.Resources.resources
+c:\users\yonca\documents\visual studio 2013\Projects\HelloWordProject\HelloWordProject\obj\Debug\HelloWordProject.csproj.GenerateResource.Cache
+c:\users\yonca\documents\visual studio 2013\Projects\HelloWordProject\HelloWordProject\obj\Debug\HelloWordProject.exe
+c:\users\yonca\documents\visual studio 2013\Projects\HelloWordProject\HelloWordProject\obj\Debug\HelloWordProject.pdb

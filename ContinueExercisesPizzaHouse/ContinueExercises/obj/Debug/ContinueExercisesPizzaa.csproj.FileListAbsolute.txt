@@ -1,0 +1,12 @@
+c:\users\yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\bin\Debug\ContinueExercises.exe.config
+c:\users\yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\bin\Debug\ContinueExercises.exe
+c:\users\yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\bin\Debug\ContinueExercises.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\obj\Debug\ContinueExercisesPizzaa.csprojResolveAssemblyReference.cache
+c:\users\yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\obj\Debug\ContinueExercises.Form1.resources
+c:\users\yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\obj\Debug\ContinueExercises.Properties.Resources.resources
+c:\users\yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\obj\Debug\ContinueExercisesPizzaa.csproj.GenerateResource.Cache
+c:\users\yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\obj\Debug\ContinueExercises.exe
+c:\users\yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\obj\Debug\ContinueExercises.pdb
+C:\Users\Yonca\Desktop\c# calısmalar\ContinueExercises\ContinueExercises\bin\Debug\ContinueExercises.exe.config
+C:\Users\Yonca\Desktop\c# calısmalar\ContinueExercises\ContinueExercises\obj\Debug\ContinueExercises.exe
+C:\Users\Yonca\Desktop\c# calısmalar\ContinueExercises\ContinueExercises\obj\Debug\ContinueExercises.pdb

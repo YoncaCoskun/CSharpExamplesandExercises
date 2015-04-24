@@ -1,0 +1,9 @@
+c:\users\yonca\documents\visual studio 2013\Projects\RecorderBooks\RecorderBooks\bin\Debug\RecorderBooks.exe.config
+c:\users\yonca\documents\visual studio 2013\Projects\RecorderBooks\RecorderBooks\bin\Debug\RecorderBooks.exe
+c:\users\yonca\documents\visual studio 2013\Projects\RecorderBooks\RecorderBooks\bin\Debug\RecorderBooks.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\RecorderBooks\RecorderBooks\obj\Debug\RecorderBooks.csprojResolveAssemblyReference.cache
+c:\users\yonca\documents\visual studio 2013\Projects\RecorderBooks\RecorderBooks\obj\Debug\RecorderBooks.Form1.resources
+c:\users\yonca\documents\visual studio 2013\Projects\RecorderBooks\RecorderBooks\obj\Debug\RecorderBooks.Properties.Resources.resources
+c:\users\yonca\documents\visual studio 2013\Projects\RecorderBooks\RecorderBooks\obj\Debug\RecorderBooks.csproj.GenerateResource.Cache
+c:\users\yonca\documents\visual studio 2013\Projects\RecorderBooks\RecorderBooks\obj\Debug\RecorderBooks.exe
+c:\users\yonca\documents\visual studio 2013\Projects\RecorderBooks\RecorderBooks\obj\Debug\RecorderBooks.pdb

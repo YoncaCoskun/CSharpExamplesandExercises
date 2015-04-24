@@ -1,0 +1,17 @@
+c:\users\yonca\documents\visual studio 2013\Projects\UserRecorderDirectory\UserRecorderDirectory\bin\Debug\UserRecorderDirectory.exe.config
+c:\users\yonca\documents\visual studio 2013\Projects\UserRecorderDirectory\UserRecorderDirectory\bin\Debug\UserRecorderDirectory.exe
+c:\users\yonca\documents\visual studio 2013\Projects\UserRecorderDirectory\UserRecorderDirectory\bin\Debug\UserRecorderDirectory.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\UserRecorderDirectory\UserRecorderDirectory\obj\Debug\UserRecorderDirectory.Form1.resources
+c:\users\yonca\documents\visual studio 2013\Projects\UserRecorderDirectory\UserRecorderDirectory\obj\Debug\UserRecorderDirectory.Properties.Resources.resources
+c:\users\yonca\documents\visual studio 2013\Projects\UserRecorderDirectory\UserRecorderDirectory\obj\Debug\UserRecorderDirectory.csproj.GenerateResource.Cache
+c:\users\yonca\documents\visual studio 2013\Projects\UserRecorderDirectory\UserRecorderDirectory\obj\Debug\UserRecorderDirectory.exe
+c:\users\yonca\documents\visual studio 2013\Projects\UserRecorderDirectory\UserRecorderDirectory\obj\Debug\UserRecorderDirectory.pdb
+C:\Users\Yonca\Documents\GitHub\CSharpExercises\UserRecorderDirectory\UserRecorderDirectory\bin\Debug\UserRecorderDirectory.exe.config
+C:\Users\Yonca\Documents\GitHub\CSharpExercises\UserRecorderDirectory\UserRecorderDirectory\obj\Debug\UserRecorderDirectory.exe
+C:\Users\Yonca\Documents\GitHub\CSharpExercises\UserRecorderDirectory\UserRecorderDirectory\obj\Debug\UserRecorderDirectory.pdb
+C:\Users\Yonca\Documents\GitHub\CSharpExercises\UserRecorderDirectory\UserRecorderDirectory\bin\Debug\UserRecorderDirectory.exe
+C:\Users\Yonca\Documents\GitHub\CSharpExercises\UserRecorderDirectory\UserRecorderDirectory\bin\Debug\UserRecorderDirectory.pdb
+C:\Users\Yonca\Documents\GitHub\CSharpExercises\UserRecorderDirectory\UserRecorderDirectory\obj\Debug\UserRecorderDirectory.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\Documents\GitHub\CSharpExercises\UserRecorderDirectory\UserRecorderDirectory\obj\Debug\UserRecorderDirectory.Form1.resources
+C:\Users\Yonca\Documents\GitHub\CSharpExercises\UserRecorderDirectory\UserRecorderDirectory\obj\Debug\UserRecorderDirectory.Properties.Resources.resources
+C:\Users\Yonca\Documents\GitHub\CSharpExercises\UserRecorderDirectory\UserRecorderDirectory\obj\Debug\UserRecorderDirectory.csproj.GenerateResource.Cache

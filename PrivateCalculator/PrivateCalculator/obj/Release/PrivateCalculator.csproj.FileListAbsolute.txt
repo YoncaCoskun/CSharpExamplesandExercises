@@ -1,0 +1,8 @@
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\PrivateCalculator\PrivateCalculator\bin\Release\PrivateCalculator.exe.config
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\PrivateCalculator\PrivateCalculator\bin\Release\PrivateCalculator.exe
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\PrivateCalculator\PrivateCalculator\bin\Release\PrivateCalculator.pdb
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\PrivateCalculator\PrivateCalculator\obj\Release\PrivateCalculator.Form1.resources
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\PrivateCalculator\PrivateCalculator\obj\Release\PrivateCalculator.Properties.Resources.resources
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\PrivateCalculator\PrivateCalculator\obj\Release\PrivateCalculator.csproj.GenerateResource.Cache
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\PrivateCalculator\PrivateCalculator\obj\Release\PrivateCalculator.exe
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\PrivateCalculator\PrivateCalculator\obj\Release\PrivateCalculator.pdb

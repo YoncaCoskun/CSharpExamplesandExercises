@@ -1,0 +1,9 @@
+c:\users\yonca\documents\visual studio 2013\Projects\PrivateCalculator\PrivateCalculator\bin\Debug\PrivateCalculator.exe.config
+c:\users\yonca\documents\visual studio 2013\Projects\PrivateCalculator\PrivateCalculator\bin\Debug\PrivateCalculator.exe
+c:\users\yonca\documents\visual studio 2013\Projects\PrivateCalculator\PrivateCalculator\bin\Debug\PrivateCalculator.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\PrivateCalculator\PrivateCalculator\obj\Debug\PrivateCalculator.Form1.resources
+c:\users\yonca\documents\visual studio 2013\Projects\PrivateCalculator\PrivateCalculator\obj\Debug\PrivateCalculator.Properties.Resources.resources
+c:\users\yonca\documents\visual studio 2013\Projects\PrivateCalculator\PrivateCalculator\obj\Debug\PrivateCalculator.csproj.GenerateResource.Cache
+c:\users\yonca\documents\visual studio 2013\Projects\PrivateCalculator\PrivateCalculator\obj\Debug\PrivateCalculator.exe
+c:\users\yonca\documents\visual studio 2013\Projects\PrivateCalculator\PrivateCalculator\obj\Debug\PrivateCalculator.pdb
+C:\Users\Yonca\documents\visual studio 2013\Projects\PrivateCalculator\PrivateCalculator\obj\Debug\PrivateCalculator.csprojResolveAssemblyReference.cache

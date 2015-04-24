@@ -1,0 +1,9 @@
+c:\users\yonca\documents\visual studio 2013\Projects\MathsCount\MathsCount\bin\Debug\MathsCount.exe.config
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\MathsCount\MathsCount\bin\Debug\MathsCount.exe
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\MathsCount\MathsCount\bin\Debug\MathsCount.pdb
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\MathsCount\MathsCount\obj\Debug\MathsCount.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\MathsCount\MathsCount\obj\Debug\MathsCount.Form1.resources
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\MathsCount\MathsCount\obj\Debug\MathsCount.Properties.Resources.resources
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\MathsCount\MathsCount\obj\Debug\MathsCount.csproj.GenerateResource.Cache
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\MathsCount\MathsCount\obj\Debug\MathsCount.exe
+C:\Users\Yonca\Documents\Visual Studio 2013\Projects\MathsCount\MathsCount\obj\Debug\MathsCount.pdb

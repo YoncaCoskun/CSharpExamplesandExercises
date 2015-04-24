@@ -1,0 +1,9 @@
+C:\Users\Yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\bin\Release\ContinueExercises.exe.config
+C:\Users\Yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\bin\Release\ContinueExercises.exe
+C:\Users\Yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\bin\Release\ContinueExercises.pdb
+C:\Users\Yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\obj\Release\ContinueExercisesPizzaa.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\obj\Release\ContinueExercises.Form1.resources
+C:\Users\Yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\obj\Release\ContinueExercises.Properties.Resources.resources
+C:\Users\Yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\obj\Release\ContinueExercisesPizzaa.csproj.GenerateResource.Cache
+C:\Users\Yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\obj\Release\ContinueExercises.exe
+C:\Users\Yonca\documents\visual studio 2013\Projects\ContinueExercises\ContinueExercises\obj\Release\ContinueExercises.pdb
